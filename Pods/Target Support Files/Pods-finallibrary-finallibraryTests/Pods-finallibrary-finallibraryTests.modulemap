@@ -1,0 +1,6 @@
+framework module Pods_finallibrary_finallibraryTests {
+  umbrella header "Pods-finallibrary-finallibraryTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
